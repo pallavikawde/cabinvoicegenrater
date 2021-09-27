@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.InvoiceServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-27T02:23:36" hostname="LAPTOP-V004507B" time="0.026">
+  <properties/>
+  <testcase name="Givenlessdistanceandtime_shouldreturn_minimumfair()" classname="com.bridgelabz.InvoiceServiceTest" time="0.02"/>
+  <testcase name="GivenDistanceandtime_shouldreturnfalse()" classname="com.bridgelabz.InvoiceServiceTest" time="0.001"/>
+  <testcase name="givenmultiplerides_shouldReTURNsummary()" classname="com.bridgelabz.InvoiceServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
